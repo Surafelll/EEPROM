@@ -1,1 +1,2 @@
 What is eeprom stand for ?
+	-eeprom is electrically erasable programmable read-only memory.

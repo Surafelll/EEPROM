@@ -1,3 +1,6 @@
 What is eeprom stand for ?
 -eeprom is electrically erasable programmable read-only memory.
 -eeprom is type of non volatile rom that enables individual bytes of data to be erased and programmed.
+-it is chips are known as byte erasable chips.
+-it usually used to store amounts of data in computing and other electronic device
+-found in late 1970s and 1980s by researchers at hunghes aircraft and intel.

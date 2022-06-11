@@ -8,4 +8,5 @@ What is eeprom stand for ?
 What is EEPROM transistor?
 -In EEPROM, floating gate or storage transistors hold a charge while a metal-oxide-silicon (MOS) transistor is used to erase the charge. The floating gate transistors (FGTs) are complementary MOS-based bit cells. When there is no charge on the floating gate, a pulse on the control gate causes current to flow. At this point, the transistor acts normally.
 -When the gate is charged, it blocks or impedes the action of the control gate, and current ceases to flow. In order to charge, the source and drain terminals must be grounded, and sufficient voltage must be placed on the control gate tunnel through the oxide to the floating gate.
+-The charged/uncharged state is determined by the electrons that get trapped in the gate, which then determines whether the gate's content will be a 0 bit or a 1 bit. A reverse voltage channeled from another transistor causes the charge to dissipate into the substrate, consequently clearing it.
 

@@ -4,3 +4,7 @@ What is eeprom stand for ?
 -it is chips are known as byte erasable chips.
 -it usually used to store amounts of data in computing and other electronic device
 -found in late 1970s and 1980s by researchers at hunghes aircraft and intel.
+
+What is EEPROM transistor?
+-In EEPROM, floating gate or storage transistors hold a charge while a metal-oxide-silicon (MOS) transistor is used to erase the charge. The floating gate transistors (FGTs) are complementary MOS-based bit cells. When there is no charge on the floating gate, a pulse on the control gate causes current to flow. At this point, the transistor acts normally.
+

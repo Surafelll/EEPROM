@@ -11,4 +11,4 @@ What is EEPROM transistor?
 -The charged/uncharged state is determined by the electrons that get trapped in the gate, which then determines whether the gate's content will be a 0 bit or a 1 bit. A reverse voltage channeled from another transistor causes the charge to dissipate into the substrate, consequently clearing it.
 what is Type of EEPROM?
 1.serial EEPROM
-
+Serial EEPROM chips can be contained within a small eight-pin package, making them denser than parallel EEPROM chips. Serial chips are also less expensive. The drawback is that data is transferred serially and, therefore, slowly. Additionally, their operations are more complex.

@@ -20,3 +20,6 @@ Many standard interface type are available for serial eeprom:
 -1-Wire
 
 Each of these interfaces requires one to four control signals for operation.
+
+EEROPM serial protocol consists of three phases:
+	1.operational code phase

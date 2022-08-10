@@ -24,3 +24,4 @@ Each of these interfaces requires one to four control signals for operation.
 EEROPM serial protocol consists of three phases:
 	1.operational code phase
 	2.address phase
+	3.data phase

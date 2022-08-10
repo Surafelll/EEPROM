@@ -18,3 +18,5 @@ Many standard interface type are available for serial eeprom:
 -Microwire
 -UNI/O
 -1-Wire
+
+Each of these interfaces requires one to four control signals for operation.

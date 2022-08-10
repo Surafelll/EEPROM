@@ -17,3 +17,4 @@ Many standard interface type are available for serial eeprom:
 -Inter-Integrated Circuit
 -Microwire
 -UNI/O
+-1-Wire

@@ -25,3 +25,4 @@ EEROPM serial protocol consists of three phases:
 	1.operational code phase
 	2.address phase
 	3.data phase
+	p
